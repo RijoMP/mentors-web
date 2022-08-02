@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/mentors-web/static/css/main.d341aed0.chunk.css",
+    "main.js": "/mentors-web/static/js/main.6c349856.chunk.js",
+    "main.js.map": "/mentors-web/static/js/main.6c349856.chunk.js.map",
+    "runtime-main.js": "/mentors-web/static/js/runtime-main.f5b56ca8.js",
+    "runtime-main.js.map": "/mentors-web/static/js/runtime-main.f5b56ca8.js.map",
+    "static/css/2.89ad9a00.chunk.css": "/mentors-web/static/css/2.89ad9a00.chunk.css",
+    "static/js/2.7eb9e002.chunk.js": "/mentors-web/static/js/2.7eb9e002.chunk.js",
+    "static/js/2.7eb9e002.chunk.js.map": "/mentors-web/static/js/2.7eb9e002.chunk.js.map",
+    "index.html": "/mentors-web/index.html",
+    "static/css/2.89ad9a00.chunk.css.map": "/mentors-web/static/css/2.89ad9a00.chunk.css.map",
+    "static/css/main.d341aed0.chunk.css.map": "/mentors-web/static/css/main.d341aed0.chunk.css.map",
+    "static/js/2.7eb9e002.chunk.js.LICENSE.txt": "/mentors-web/static/js/2.7eb9e002.chunk.js.LICENSE.txt",
+    "static/media/about-us.7cee1185.png": "/mentors-web/static/media/about-us.7cee1185.png",
+    "static/media/graphics-design.08c25c6b.png": "/mentors-web/static/media/graphics-design.08c25c6b.png",
+    "static/media/hero-img1.12a6ce0c.png": "/mentors-web/static/media/hero-img1.12a6ce0c.png",
+    "static/media/kids-learning.fcd258b6.png": "/mentors-web/static/media/kids-learning.fcd258b6.png",
+    "static/media/remixicon.css": "/mentors-web/static/media/remixicon.f2616f59.ttf",
+    "static/media/seo.b323da63.png": "/mentors-web/static/media/seo.b323da63.png",
+    "static/media/slick-theme.css": "/mentors-web/static/media/slick.c94f7671.ttf",
+    "static/media/testimonial01.ef527bf3.png": "/mentors-web/static/media/testimonial01.ef527bf3.png",
+    "static/media/ui-ux.0366b465.png": "/mentors-web/static/media/ui-ux.0366b465.png",
+    "static/media/web-design.9071c3ef.png": "/mentors-web/static/media/web-design.9071c3ef.png",
+    "static/media/web-development.91ce5338.png": "/mentors-web/static/media/web-development.91ce5338.png",
+    "static/media/why-choose-us.5ec7e3b2.png": "/mentors-web/static/media/why-choose-us.5ec7e3b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5b56ca8.js",
+    "static/css/2.89ad9a00.chunk.css",
+    "static/js/2.7eb9e002.chunk.js",
+    "static/css/main.d341aed0.chunk.css",
+    "static/js/main.6c349856.chunk.js"
+  ]
+}
