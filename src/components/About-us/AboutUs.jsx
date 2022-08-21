@@ -29,18 +29,18 @@ const AboutUs = () => {
                 <div className=" d-flex gap-5 align-items-center">
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={25} duration={2} suffix="K" />
+                      <CountUp start={0} end={2} duration={2} suffix="K" />
                     </span>
 
-                    <p className="counter__title">Completed Projects</p>
+                    <p className="counter__title">Completed Videos</p>
                   </div>
 
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={12} duration={2} suffix="M" />
+                      <CountUp start={0} end={12} duration={2} suffix="K" />
                     </span>
 
-                    <p className="counter__title">Patient Around World</p>
+                    <p className="counter__title">Aspirants Around World</p>
                   </div>
                 </div>
 
@@ -50,12 +50,12 @@ const AboutUs = () => {
                       <CountUp start={0} end={95} duration={2} suffix="M" />
                     </span>
 
-                    <p className="counter__title">Ideas Raised Funds</p>
+                    <p className="counter__title">Minutes of Classes</p>
                   </div>
 
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={5} duration={2} suffix="K" />
+                      <CountUp start={0} end={30} duration={2} suffix="" />
                     </span>
 
                     <p className="counter__title">Categories Served</p>

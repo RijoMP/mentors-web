@@ -1,5 +1,6 @@
 import React, { useRef } from "react";
 import { Container } from "reactstrap";
+import himg from '../../assests/images/header-icon.png'
 import "./header.css";
 
 const navLinks = [
@@ -37,7 +38,7 @@ const Header = () => {
         <div className="navigation d-flex align-items-center justify-content-between">
           <div className="logo">
             <h2 className=" d-flex align-items-center gap-1">
-              <i class="ri-pantone-line"></i> Mentors
+              <i className="header-icon"> <img src={himg} width="60px" height="56px" alt="" /></i> Mentors LLB
             </h2>
           </div>
 
@@ -54,14 +55,14 @@ const Header = () => {
 
             <div className="nav__right">
               <p className="mb-0 d-flex align-items-center gap-2">
-                <i class="ri-phone-line"></i> +91 9605360222
+                <i className="ri-phone-line"></i> +91 9605360222
               </p>
             </div>
           </div>
 
           <div className="mobile__menu">
             <span>
-              <i class="ri-menu-line" onClick={menuToggle}></i>
+              <i className="ri-menu-line" onClick={menuToggle}></i>
             </span>
           </div>
         </div>

@@ -19,7 +19,6 @@ const Home = () => {
     <Fragment>
       <Header />
       <HeroSection />
-      <CompanySection />
       <AboutUs />
       <Courses />
       <ChooseUs />
@@ -27,6 +26,7 @@ const Home = () => {
       <FreeCourse />
       <Testimonials />
       <Newsletter />
+      <CompanySection />
       <Footer />
     </Fragment>
   );

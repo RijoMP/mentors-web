@@ -1,3 +1,80 @@
-i{
-    color: rgb(167, 0, 151) !important;
+.company{
+    background-color: #ffa4e868;
+    margin-left: 10px;
+    margin-right:10px;
+    border-radius: 10px;
+    margin-bottom: 60px;
 }
+
+.social-icon{
+    color: rgb(230, 0, 0) !important;
+}
+.social{
+    margin-bottom:20px;
+}
+.social a{
+    width:100%;
+}
+.social .float-button {
+    text-decoration: none;
+    padding: 10px;
+    padding-right: 15px;
+    color: #fff;
+    min-width: 100px;
+    border-radius: 15px 15px 15px 15px;
+    z-index: 100;
+    font-family: Arial;
+    font-size: 17px;
+    animation: animation 0.5s ease-in-out;
+    box-shadow: 1px 2px 5px 2px rgba(30,30,30,0.3);
+    transition:all 0.3s ease-out;
+}
+.wa{
+    /* background-color:#25D366; */
+    color: rgb(0, 126, 27) !important;
+}
+
+.wa:hover {
+     /* background-color: #128c2a; */
+     color: rgb(228, 23, 228) !important;
+}
+.fb{
+    /* background-color:#414dcfeb; */
+    color: rgb(228, 23, 228) !important;
+}
+
+.fb:hover {
+     /* background-color: #14128c; */
+     color: rgb(228, 23, 228) !important;
+}
+.ig{
+    /* background-color:#ee3356; */
+    color: rgb(228, 23, 228) !important;
+}
+
+.ig:hover {
+     /* background-color: #c20541; */
+     color: rgb(228, 23, 228) !important;
+}
+.yt{
+    /* background-color:#d31717; */
+    color: rgb(228, 23, 228) !important;
+}
+
+.yt:hover {
+     /* background-color: #aa0b0b; */
+     color: rgb(228, 23, 228) !important;
+}
+
+
+
+@keyframes animation {
+    from {
+        opacity: 0%;
+    }
+
+    to {
+        opacity: 100%
+    }
+}
+
