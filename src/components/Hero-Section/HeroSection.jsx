@@ -5,14 +5,17 @@ import "./hero-section.css";
 
 const HeroSection = () => {
   return (
-    <section>
+    <section className="hero"> 
       <Container>
+        <Row>
+        <h2 className="mb-4 hero__title">
+                Anytime Anywhere Learn on your Suitable Schedule
+              </h2>
+        </Row>
         <Row>
           <Col lg="6" md="6">
             <div className="hero__content">
-              <h2 className="mb-4 hero__title">
-                Anytime Anywhere Learn on your Suitable Schedule
-              </h2>
+              
               <p className="mb-5">
                 Lorem ipsum dolor sit amet consectetur  adipisicing elit.
                 Aut saepe voluptatum earum delectus  deserunt id iste,

@@ -1,17 +1,27 @@
+.hero{
+  background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 6%, rgba(255,255,255,1) 12%, rgba(255,255,255,1) 24%, rgba(198,122,230,1) 46%, rgba(199,66,255,1) 62%, rgba(209,16,180,1) 82%, rgba(255,40,139,1) 100%);
+color:#fff !important;
+}
 .hero__title{
   text-align: center;
+  color: #fff;
 }
 
 .hero__content h2 {
   font-weight: 600;
   line-height: 55px;
+  color: #fff;
 }
 
 .hero__content {
   padding-top: 80px;
+  color: #fff;
 }
+
 .hero__content > p{
   text-align: justify !important;
+  color: #fff;
 }
 
 .hero__img{
@@ -22,8 +32,10 @@
   margin-bottom:40px;
   display: flex;
   align-items: center;
+  justify-content: center;
 
 }
+
 
 
 .gp-btn{
@@ -63,4 +75,9 @@
   word-wrap:nowrap;
   font-size:18px;
   
+}
+@media only screen and (max-width: 991px) {
+  .hero__content {
+    padding-top: 00px;
+  }
 }
